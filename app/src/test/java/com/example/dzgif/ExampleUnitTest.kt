@@ -1,4 +1,4 @@
-package com.example.homework_two
+package com.example.dzgif
 
 import org.junit.Test
 
